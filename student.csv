@@ -1,0 +1,6 @@
+STUDENTID,FIRSTNAME,LASTNAME,DATEOFBIRTH,GENDER,EMAIL,STUDYPROGRAMID
+1,John,Doe,15-MAR-95,M,john.doe@example.com,1
+2,Jane,Smith,22-AUG-97,F,jane.smith@example.com,2
+3,Michael,Johnson,10-MAY-98,M,michael.johnson@example.com,1
+4,Emily,Williams,03-DEC-96,F,emily.williams@example.com,3
+5,David,Brown,28-FEB-99,M,david.brown@example.com,2

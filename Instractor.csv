@@ -1,0 +1,6 @@
+INSTRUCTORID,FIRSTNAME,LASTNAME,DATEOFBIRTH,EMAIL,EDUCATIONALLEVEL,DEPARTMENTID
+1,Robert,Johnson,20-MAY-70,robert.johnson@example.com,Ph.D.,1
+2,Alice,Smith,15-AUG-82,alice.smith@example.com,M.Sc.,2
+3,David,Williams,10-MAR-75,david.williams@example.com,Ph.D.,3
+4,Emily,Davis,28-NOV-80,emily.davis@example.com,M.Sc.,4
+5,John,Miller,15-FEB-78,john.miller@example.com,Ph.D.,5
